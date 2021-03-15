@@ -6,16 +6,11 @@ using System.Threading.Tasks;
 
 namespace sendMail.Controllers
 {
-    public class AwayController : Controller
+    public class MangaController : Controller
     {
         public IActionResult Index()
         {
             return View();
         }
-        public IActionResult Privacy()
-        {
-            return View();
-        }
     }
 }
-

@@ -6074,11 +6074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\An\\project\\sendMail\\sendMail.csproj",
-      "projectName": "sendMail",
-      "projectPath": "E:\\An\\project\\sendMail\\sendMail.csproj",
+      "projectUniqueName": "E:\\An\\project\\sendmail\\Otaku.csproj",
+      "projectName": "Otaku",
+      "projectPath": "E:\\An\\project\\sendmail\\Otaku.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\An\\project\\sendMail\\obj\\",
+      "outputPath": "E:\\An\\project\\sendmail\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

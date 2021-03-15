@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F1R0FNkxYYC8fNDvFvQYLI3hlra2irTBZ6FT5HQEWanGuSoYE2H23LuyWUuYr4Mg+ndOEH80ElZc2ylgKaA03Q==",
+  "dgSpecHash": "UZlAghyAoQaWxpm7oeHxy5tEzqgGa9sMdVbN9vSoYAG/qjioqsCRFT31cLTlhaUdrUH9cJQ+4r+oOFYKmIZm5Q==",
   "success": true,
-  "projectFilePath": "E:\\An\\project\\sendmail\\sendMail.csproj",
+  "projectFilePath": "E:\\An\\project\\sendmail\\Otaku.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
